@@ -1,0 +1,16 @@
+current directory: /home/satorutanaka/environment/Tutorial_Ruby_on_Rails/app/vendor/bundle/ruby/3.1.0/gems/strscan-3.0.3/ext/strscan
+/home/satorutanaka/.rbenv/versions/3.1.2/bin/ruby -I /home/satorutanaka/.rbenv/versions/3.1.2/lib/ruby/3.1.0 -r ./siteconf20220710-71002-jg8pvx.rb extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+creating Makefile
+
+current directory: /home/satorutanaka/environment/Tutorial_Ruby_on_Rails/app/vendor/bundle/ruby/3.1.0/gems/strscan-3.0.3/ext/strscan
+make DESTDIR\= clean
+
+current directory: /home/satorutanaka/environment/Tutorial_Ruby_on_Rails/app/vendor/bundle/ruby/3.1.0/gems/strscan-3.0.3/ext/strscan
+make DESTDIR\=
+compiling strscan.c
+linking shared-object strscan.so
+
+current directory: /home/satorutanaka/environment/Tutorial_Ruby_on_Rails/app/vendor/bundle/ruby/3.1.0/gems/strscan-3.0.3/ext/strscan
+make DESTDIR\= install
+/bin/install -c -m 0755 strscan.so ./.gem.20220710-71002-1ei6h6

@@ -1,0 +1,15 @@
+current directory: /home/satorutanaka/environment/Tutorial_Ruby_on_Rails/app/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+/home/satorutanaka/.rbenv/versions/3.1.2/bin/ruby -I /home/satorutanaka/.rbenv/versions/3.1.2/lib/ruby/3.1.0 -r ./siteconf20220710-71614-8wo25e.rb extconf.rb
+creating Makefile
+
+current directory: /home/satorutanaka/environment/Tutorial_Ruby_on_Rails/app/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+
+current directory: /home/satorutanaka/environment/Tutorial_Ruby_on_Rails/app/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/satorutanaka/environment/Tutorial_Ruby_on_Rails/app/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= install
+/bin/install -c -m 0755 cruby.so ./.gem.20220710-71614-ouydz2/skiptrace/internal
